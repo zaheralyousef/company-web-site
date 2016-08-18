@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"name": "Hardware Repair" ,
+		"discription": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. ",
+		"image": "http://keyw.com/files/2015/04/The-Computer-Solutions-and-IT-Repair-Expert.jpg"
+	},
+	{
+		"id": 2,
+		"name": "Viruses Removal" ,
+		"discription": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. ",
+		"image": "http://keyw.com/files/2015/04/The-Computer-Solutions-and-IT-Repair-Expert.jpg"
+	},
+	{
+		"id": 1,
+		"name": "Sysytem Tuneup" ,
+		"discription": "Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui. ",
+		"image": "http://keyw.com/files/2015/04/The-Computer-Solutions-and-IT-Repair-Expert.jpg"
+	}
+]
